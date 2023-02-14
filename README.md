@@ -5,4 +5,4 @@ frontend: React,Redux
 backend: Node.js,Express.js
 database: MongoDB
 
-#Link:https://yconnector.herokuapp.com/
+#Link:https://yc-live.onrender.com
